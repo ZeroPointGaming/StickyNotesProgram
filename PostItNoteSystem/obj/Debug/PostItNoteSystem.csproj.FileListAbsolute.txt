@@ -1,0 +1,10 @@
+C:\Users\Redaj\Source\Repos\ZeroPointGaming\PostItNoteSystem\PostItNoteSystem\obj\Debug\PostItNoteSystem.csprojAssemblyReference.cache
+C:\Users\Redaj\Source\Repos\ZeroPointGaming\PostItNoteSystem\PostItNoteSystem\obj\Debug\com.Momentum.Net.PostItNoteSystem.Form1.resources
+C:\Users\Redaj\Source\Repos\ZeroPointGaming\PostItNoteSystem\PostItNoteSystem\obj\Debug\PostItNoteSystem.Properties.Resources.resources
+C:\Users\Redaj\Source\Repos\ZeroPointGaming\PostItNoteSystem\PostItNoteSystem\obj\Debug\PostItNoteSystem.csproj.GenerateResource.cache
+C:\Users\Redaj\Source\Repos\ZeroPointGaming\PostItNoteSystem\PostItNoteSystem\obj\Debug\PostItNoteSystem.csproj.CoreCompileInputs.cache
+C:\Users\Redaj\Source\Repos\ZeroPointGaming\PostItNoteSystem\PostItNoteSystem\bin\Debug\PostItNoteSystem.exe.config
+C:\Users\Redaj\Source\Repos\ZeroPointGaming\PostItNoteSystem\PostItNoteSystem\bin\Debug\PostItNoteSystem.exe
+C:\Users\Redaj\Source\Repos\ZeroPointGaming\PostItNoteSystem\PostItNoteSystem\bin\Debug\PostItNoteSystem.pdb
+C:\Users\Redaj\Source\Repos\ZeroPointGaming\PostItNoteSystem\PostItNoteSystem\obj\Debug\PostItNoteSystem.exe
+C:\Users\Redaj\Source\Repos\ZeroPointGaming\PostItNoteSystem\PostItNoteSystem\obj\Debug\PostItNoteSystem.pdb
